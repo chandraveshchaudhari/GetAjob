@@ -1,0 +1,16 @@
+Package           Version
+----------------- ---------
+certifi           2020.6.20
+chardet           3.0.4
+colorama          0.4.4
+configparser      5.0.1
+crayons           0.4.0
+idna              2.10
+pip               20.2.4
+pkg-resources     0.0.0
+PyYAML            5.3.1
+requests          2.24.0
+selenium          3.141.0
+setuptools        50.3.2
+urllib3           1.25.11
+webdriver-manager 3.2.2

@@ -1,0 +1,27 @@
+# https://pyyaml.org/wiki/PyYAMLDocumentation
+LinkedIn:
+  url: https://www.linkedin.com/
+  username: michaelchaudhari@gmail.com
+  password: destroyer.cool
+
+positions:
+- Data analyst
+#- Another position you want to search for
+ # A third position you want to search for
+
+locations:
+- bengaluru
+# A second location you want to search in
+
+# --------- Optional Parameters -------
+# uploads:
+#  Resume: # PATH TO Resume 
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
